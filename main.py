@@ -11,3 +11,8 @@ def area_trapezoid():
     return S_t
 
 print("Результат")
+
+def area_triangle():
+    S_tr = a * b * c
+    return S_tr
+
