@@ -1,3 +1,7 @@
 def area_circle():
-    s = 3.14 * r**2
-    return s
+    S = 3.14 * r**2
+    return S
+
+def area_square():
+    S = a**2
+    return S
