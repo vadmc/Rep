@@ -9,3 +9,5 @@ def area_square():
 def area_trapezoid():
     S_t = 0.5*(a + b)*h
     return S_t
+
+print("Результат")
